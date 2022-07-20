@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<SWTitleRecords>		
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="T933952V21866N24"><![CDATA[Rational AppScan Build Edition]]></SWTitle>
+		<CurrentSWTitle synKey="T933952V21866N24"/>
+
+		<Versions>
+								
+			<Version synKey="Z964887K25661A53" pid="5724-Z71" offeringType="IPLA">
+				<versionNumber>7</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="V066980C72566S48">
+						<releaseNumber>9</releaseNumber>
+						<modLevelNumber>x</modLevelNumber>
+						<PLCInfo gaDate="09-Mar-2010" gaAnnLetNo="210-060"  
+								eomDate="22-Feb-2012" eomAnnLetNo="911-244"  
+								eosDate="30-Apr-2015" eosAnnLetNo="913-179"  
+								exception="No" 
+								lifecyclePolicy="E"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="E797032Q11907O20"><![CDATA[IBM Spectrum Virtualize Software for Storwize V7000]]></SWTitle>
+		<CurrentSWTitle synKey="E797032Q11907O20"/>
+
+		<Versions>
+								
+			<Version synKey="J979298Q40098A90" pid="5639-CB8" offeringType="IPLA">
+				<versionNumber>8</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="I393017Q33616I26">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>x</modLevelNumber>
+						<PLCInfo gaDate="28-Aug-2018" gaAnnLetNo="218-268"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="" eosAnnLetNo=""  
+								exception="No" 
+								lifecyclePolicy="E"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="C868108Y75734O48"><![CDATA[IBM Big Replicate for Hadoop]]></SWTitle>
+		<CurrentSWTitle synKey="C868108Y75734O48"/>
+
+		<Versions>
+								
+			<Version synKey="C171502Y49161R79" pid="5737-H85" offeringType="IPLA">
+				<versionNumber>2</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="B876163R11542O89">
+						<releaseNumber>12</releaseNumber>
+						<modLevelNumber>0</modLevelNumber>
+						<PLCInfo gaDate="13-Jul-2018" gaAnnLetNo="218-279"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="" eosAnnLetNo=""  
+								exception="No" 
+								lifecyclePolicy="E"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="O292190L63415N36"><![CDATA[PureApplication System W2500]]></SWTitle>
+		<CurrentSWTitle synKey="O292190L63415N36"/>
+
+		<Versions>
+								
+			<Version synKey="T046319S48962O45" pid="5725-Q93" offeringType="IPLA">
+				<versionNumber>2</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="H413459L89835M83">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>3</modLevelNumber>
+						<PLCInfo gaDate="05-May-2017" gaAnnLetNo="217-087"  
+								eomDate="07-Apr-2017" eomAnnLetNo="917-043"  
+								eosDate="30-Sep-2019" eosAnnLetNo="918-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+							
+					<Release_Mod synKey="T328362X55431C11">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>4</modLevelNumber>
+						<PLCInfo gaDate="05-May-2017" gaAnnLetNo="217-087"  
+								eomDate="07-Apr-2017" eomAnnLetNo="917-043"  
+								eosDate="30-Sep-2019" eosAnnLetNo="918-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+							
+					<Release_Mod synKey="E413459C89835V83">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>2</modLevelNumber>
+						<PLCInfo gaDate="09-Sep-2016" gaAnnLetNo="216-347"  
+								eomDate="07-Apr-2017" eomAnnLetNo="917-043"  
+								eosDate="30-Sep-2018" eosAnnLetNo="917-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="D838464Q34459W21"><![CDATA[XIV Storage System Gen3 software]]></SWTitle>
+		<CurrentSWTitle synKey="D838464Q34459W21"/>
+
+		<Versions>
+								
+			<Version synKey="Q973070X40260F79" pid="5639-YYE" offeringType="IPLA">
+				<versionNumber>11</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="N973070Z40260Z79">
+						<releaseNumber>6</releaseNumber>
+						<modLevelNumber>x</modLevelNumber>
+						<PLCInfo gaDate="04-Dec-2015" gaAnnLetNo=""  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="" eosAnnLetNo=""  
+								exception="No" 
+								lifecyclePolicy="E"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="O956000A09955Q11"><![CDATA[InfoSphere Optim pureQuery Runtime for z/OS]]></SWTitle>
+		<CurrentSWTitle synKey="O956000A09955Q11"/>
+
+		<Versions>
+								
+			<Version synKey="Q698387C73358Q71" pid="5655-W92" offeringType="IPLA">
+				<versionNumber>3</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="A090091Z47131X75">
+						<releaseNumber>3</releaseNumber>
+						<modLevelNumber>0</modLevelNumber>
+						<PLCInfo gaDate="26-Jul-2013" gaAnnLetNo="213-291"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="" eosAnnLetNo=""  
+								exception="No" 
+								lifecyclePolicy="E"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="Q924429F13342R33"><![CDATA[IBM Netcool Performance Manager]]></SWTitle>
+		<CurrentSWTitle synKey="Q924429F13342R33"/>
+
+		<Versions>
+								
+			<Version synKey="C668753I13050P01" pid="5725-I07" offeringType="IPLA">
+				<versionNumber>1</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="I668753T13050K01">
+						<releaseNumber>3</releaseNumber>
+						<modLevelNumber>x</modLevelNumber>
+						<PLCInfo gaDate="10-May-2010" gaAnnLetNo="210-097"  
+								eomDate="17-Apr-2020" eomAnnLetNo="919-045"  
+								eosDate="30-Apr-2020" eosAnnLetNo="919-045"  
+								exception="No" 
+								lifecyclePolicy="E"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="A171913V57849L92"><![CDATA[PureApplication Software Suite]]></SWTitle>
+		<CurrentSWTitle synKey="A171913V57849L92"/>
+
+		<Versions>
+								
+			<Version synKey="H632146E91156Z51" pid="5737-B07" offeringType="IPLA">
+				<versionNumber>2</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="R498557Y44240G56">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>4</modLevelNumber>
+						<PLCInfo gaDate="29-Sep-2017" gaAnnLetNo=""  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="30-Sep-2019" eosAnnLetNo="918-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+							
+					<Release_Mod synKey="W498557W44240H56">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>3</modLevelNumber>
+						<PLCInfo gaDate="05-May-2017" gaAnnLetNo="217-087"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="30-Sep-2019" eosAnnLetNo="918-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="O149631R49033Z86"><![CDATA[Engineering and Scientific Subroutine Library for Linux on POWER]]></SWTitle>
+		<CurrentSWTitle synKey="O149631R49033Z86"/>
+
+		<Versions>
+								
+			<Version synKey="K642841F06689C15" pid="5765-L61" offeringType="IPLA">
+				<versionNumber>6</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="E642841P06689A15">
+						<releaseNumber>1</releaseNumber>
+						<modLevelNumber>x</modLevelNumber>
+						<PLCInfo gaDate="31-Aug-2018" gaAnnLetNo="218-103"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="" eosAnnLetNo=""  
+								exception="No" 
+								lifecyclePolicy="S"/>
+								<PLCMoreInfoURL></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+		
+	<SWTitleRecord>	
+		<SWTitle synKey="F214851I82500Y79"><![CDATA[PureApplication System W3700]]></SWTitle>
+		<CurrentSWTitle synKey="F214851I82500Y79"/>
+
+		<Versions>
+								
+			<Version synKey="R964324U07075U87" pid="5725-X32" offeringType="IPLA">
+				<versionNumber>2</versionNumber>		
+
+				<Release_Mods>
+							
+					<Release_Mod synKey="E328362O55431V11">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>4</modLevelNumber>
+						<PLCInfo gaDate="29-Sep-2017" gaAnnLetNo="217-457"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="30-Sep-2019" eosAnnLetNo="918-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+							
+					<Release_Mod synKey="G328362Z55431H11">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>3</modLevelNumber>
+						<PLCInfo gaDate="05-May-2017" gaAnnLetNo="217-087"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="30-Sep-2019" eosAnnLetNo="918-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+							
+					<Release_Mod synKey="Q328362G55431P11">
+						<releaseNumber>2</releaseNumber>
+						<modLevelNumber>2</modLevelNumber>
+						<PLCInfo gaDate="09-Sep-2016" gaAnnLetNo="216-347"  
+								eomDate="" eomAnnLetNo=""  
+								eosDate="30-Sep-2018" eosAnnLetNo="917-138"  
+								exception="No" 
+								lifecyclePolicy="O"/>
+								<PLCMoreInfoURL><![CDATA[http://www-01.ibm.com/support/docview.wss?uid=swg21667771]]></PLCMoreInfoURL>
+					</Release_Mod>
+
+				</Release_Mods>			
+			</Version>
+							
+		</Versions>
+	</SWTitleRecord>
+
+</SWTitleRecords>
+			

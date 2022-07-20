@@ -1,0 +1,16 @@
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\OfferLaunch.exe.config
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\OfferLaunch.exe
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\OfferLaunch.pdb
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\WebDriver.dll
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\WebDriver.Support.dll
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\WebDriver.xml
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\WebDriver.Support.xml
+D:\Projects\OfferLaunch\OfferLaunch\obj\Debug\OfferLaunch.csprojResolveAssemblyReference.cache
+D:\Projects\OfferLaunch\OfferLaunch\obj\Debug\OfferLaunch.exe
+D:\Projects\OfferLaunch\OfferLaunch\obj\Debug\OfferLaunch.pdb
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\OfferLaunch\OfferLaunch\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\CaptureVersioningSupportingProgramForIBM\OfferLaunch\bin\Debug\OfferLaunch.exe.config
+D:\Projects\CaptureVersioningSupportingProgramForIBM\OfferLaunch\obj\Debug\OfferLaunch.exe
+D:\Projects\CaptureVersioningSupportingProgramForIBM\OfferLaunch\obj\Debug\OfferLaunch.pdb
