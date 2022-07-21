@@ -1,0 +1,216 @@
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe.config
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\WebDriver.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\WebDriver.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csprojAssemblyReference.cache
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CoreCompileInputs.cache
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CopyComplete
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Buffers.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Memory.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Buffers.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Memory.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSelenium\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe.config
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Buffers.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Memory.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\WebDriver.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Buffers.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Memory.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\WebDriver.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csprojAssemblyReference.cache
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CoreCompileInputs.cache
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CopyComplete
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingInfoSeleniumGroup\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe.config
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Buffers.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Memory.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Buffers.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Memory.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csprojAssemblyReference.cache
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CoreCompileInputs.cache
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CopyComplete
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingUSDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe.config
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Buffers.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Memory.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\WebDriver.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Buffers.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Memory.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\WebDriver.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csprojAssemblyReference.cache
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CoreCompileInputs.cache
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CopyComplete
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricing Pound\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe.config
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Buffers.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Memory.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Buffers.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Memory.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csprojAssemblyReference.cache
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CoreCompileInputs.cache
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CopyComplete
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricing USDollar\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe.config
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\IBMPricingInfoSelenium.pdb
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Buffers.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Memory.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\WebDriver.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.dll
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Buffers.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Memory.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Numerics.Vectors.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Security.AccessControl.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Security.Permissions.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Security.Principal.Windows.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\System.Text.Encodings.Web.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\WebDriver.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\bin\Debug\WebDriver.Support.xml
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csprojAssemblyReference.cache
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CoreCompileInputs.cache
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.csproj.CopyComplete
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.exe
+C:\Gurpreet\Selenium\IBMPricingInfo Selenium Euro\IBMPricingInfoSelenium\obj\Debug\IBMPricingInfoSelenium.pdb
